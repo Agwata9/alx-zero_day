@@ -1,1 +1,1 @@
-My first git repo
+My first git repo, reedited through the online interface
