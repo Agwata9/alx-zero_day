@@ -1,1 +1,1 @@
-My first git repo
+It's time to code!
